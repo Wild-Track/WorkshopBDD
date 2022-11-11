@@ -1,0 +1,14 @@
+﻿{
+  "GameSettings": {
+    "Browser": "Firefox",
+    "Website": "http://localhost/exam/Workshop.html"
+  },
+  "_comment": {
+    "GameSettings": {
+      "Browser": "Firefox",
+      "PlayerOne": "PlayerOne",
+      "PlayerTwo": "PlayerTwo",
+      "Website": "http://localhost/SnakeGame/web"
+    }
+  }
+}
